@@ -142,8 +142,7 @@ No external libraries required — uses only standard Java SE
 Compile & Run
 
 bash# Clone the repository
-git clone https://github.com/Sajedur-Jaman/car-racing-game.git
-cd car-racing-game
+[https://github.com/Sajedur-Jaman/car-simulator.git](https://github.com/Sajedur-Jaman/car-simulator.git)
 
 # Compile
 javac CarRacingGame.java
